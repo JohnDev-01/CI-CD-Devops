@@ -1,4 +1,4 @@
-name: Run Tests
+name: Correr los test unitarios
 
 on:
   push:
