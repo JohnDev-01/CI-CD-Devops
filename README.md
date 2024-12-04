@@ -3,7 +3,11 @@
 Este proyecto es una práctica integral de DevOps diseñada para poner en práctica conceptos clave como integración continua, despliegue automatizado, pruebas unitarias, contenedores y publicación de servicios en la web. El objetivo es desarrollar una página web sencilla que sirva como base para experimentar con flujos de trabajo modernos de desarrollo y operaciones.
 
 ---
+## Visitar el proyecto en github pages
+Aqui: https://johndev-01.github.io/CI-CD-Devops/
 
+
+---
 ## Concepto del Proyecto
 
 El proyecto está orientado a demostrar cómo se pueden integrar herramientas y técnicas modernas para crear, probar, desplegar y mantener un proyecto de software en un entorno ágil. Se enfoca en los siguientes pilares:
